@@ -2,7 +2,7 @@
 
 **REGISTER NO: 212224110042**
 
-### EX NO: 2 - BOOLEAN FUNCTION MINIMIZATION
+### EX NO: 2 - BOOLEAN FUNCTION IMPLEMENTATION
 
 **AIM:**
 
@@ -16,7 +16,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 Hardware – PCs, Cyclone II , USB flasher
 
-**Software – Quartus prime**
+**Software – Quartus**
 
 **Theory**
 
@@ -99,10 +99,10 @@ Y= A⊕B
 
 **WAVEFORM**
 
-![Screenshot 2025-03-20 111818](https://github.com/user-attachments/assets/f3be04c5-ae7e-4ff9-a71f-032b7782c504)
+![Screenshot 2025-04-10 112252](https://github.com/user-attachments/assets/d49e5e97-9655-471f-b06b-c11ad2cd6ba7)
 
 
 **Result:**
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+Thus the given logic functions are implemented and their operations are verified using Verilog programming.
 
